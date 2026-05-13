@@ -7,7 +7,7 @@ This project focuses on premium UI/UX design, smooth animations, and a refined v
 
 ## Live Preview
 
-https://github.com/Preciey/Arken-Project
+https://preciey.github.io/Arken-Project/
 
 ---
 
