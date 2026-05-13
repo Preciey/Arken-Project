@@ -99,8 +99,7 @@ Simply open `index.html` in your browser.
 
 ## Author
 
-Preciey Ratambani
-Software Developer 
+Preciey Ratambani - Software Developer 
 
 ---
 
